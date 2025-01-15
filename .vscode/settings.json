@@ -1,0 +1,11 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".copilot-instructions.md"
+    },
+    {
+      "text": "Always add a commemt: 'Generate by GitHub Copilot'"
+    }
+  ],
+  "github.copilot.chat.commitMessageGeneration.instructions": []
+}
